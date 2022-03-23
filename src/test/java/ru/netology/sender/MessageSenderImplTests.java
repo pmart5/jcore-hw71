@@ -1,10 +1,11 @@
+package ru.netology.sender;
+
 import org.junit.jupiter.api.*;
 import org.mockito.Mockito;
 import org.mockito.MockitoSession;
 import ru.netology.entity.*;
 import ru.netology.geo.*;
 import ru.netology.i18n.*;
-import ru.netology.sender.*;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,9 +1,10 @@
+package ru.netology.i18n;
+
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
 import ru.netology.entity.Country;
-import ru.netology.i18n.*;
 
 import java.util.stream.Stream;
 
